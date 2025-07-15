@@ -1,6 +1,6 @@
 # ContiMorph: An Unsupervised Learning Framework for Cardiac Motion Tracking with Time-continuous  Diffeomorphism
 This repository is the official implementation of "ContiMorph: An Unsupervised Learning Framework for Cardiac Motion Tracking with Time-continuous  Diffeomorphism".
-![Image 1](img/figrue3.png)
+![Image 1](img/figrue3(2).pdf)
 ## Environment
 - Please prepare an environment with python=3.9, run the following command
 ```
