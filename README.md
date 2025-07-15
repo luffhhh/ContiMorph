@@ -9,6 +9,18 @@ This repository is the official implementation of "ContiMorph: An Unsupervised L
   <img src="img/AC_lag.gif" width="45%" />
   <p><b>Fig. 2.</b> Left: Baseline result. Right: Our method showing improved motion estimation.</p>
 </p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="img/AC_inf.gif" width="300"><br>
+      <b>Fig. 1.</b> Baseline motion result.
+    </td>
+    <td align="center">
+      <img src="img/AC_lag.gif" width="300"><br>
+      <b>Fig. 2.</b> Our method with temporal modeling.
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="img/CA_inf.gif" width="45%" />
   <img src="img/CA_lag.gif" width="45%" />
